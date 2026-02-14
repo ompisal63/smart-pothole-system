@@ -1,0 +1,16 @@
+# ===== Backend =====
+backend/venv/
+backend/.env
+backend/__pycache__/
+backend/**/*.pyc
+
+# ===== Android =====
+android-app/.gradle/
+android-app/.idea/
+android-app/**/build/
+android-app/local.properties
+android-app/*.iml
+
+# ===== OS =====
+.DS_Store
+Thumbs.db

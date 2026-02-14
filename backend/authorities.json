@@ -1,0 +1,14 @@
+{
+  "authorities": [
+    {
+  "authority_id": "admin1",
+  "password_hash": "$2b$12$MsSWkzgsLUA5DfGyFxawr.reCcIGtgJhy.FmTh1Yu/SppsD453rhO",
+  "role": "authority"
+   },
+   {
+  "authority_id": "Ompisal63",
+  "password_hash": "$2b$12$RqoYA8GkuuaHoSLcKNZE/.XnVwB4LkmN0Hs8zhDcx7H8P6zbzpJam",
+  "role": "authority"
+   }
+  ]
+}
