@@ -163,6 +163,26 @@ Final Year Engineering Student (AI & Data Science)
 
 ## 📸 Screenshots
 
-Screenshots of the Android application will be added in the `screenshots/` folder.
+### 👤 User Flow
 
+**Login Screen**
+![Login](screenshots/login.png)
 
+**Home / Dashboard**
+![Home](screenshots/home.png)
+
+**Upload Pothole Image**
+![Upload](screenshots/upload_image.png)
+
+**Select Location on Map**
+![Map](screenshots/map_location.png)
+
+---
+
+### 🏛️ Authority Flow
+
+**Authority Dashboard**
+![Authority Dashboard](screenshots/authority_dashboard.png)
+
+**Complaint Details & Status Update**
+![Complaint Status](screenshots/complaint_status.png)
